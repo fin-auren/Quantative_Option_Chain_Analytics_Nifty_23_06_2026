@@ -19,11 +19,11 @@
 
 **Call LTP (Last Traded Price) :**   Current price of the market premium you need to pay to buy a call option at that strike price.
 
---
+
 
 Similarly we have put side glossary as : 
 
---
+
 **Put OI (Open Interest) :** The total number of outstanding put contracts. High Put OI typically highlights a strong support level.
 
 **Put Change OI:** The net change in open interest for that specific put strike during the day.
