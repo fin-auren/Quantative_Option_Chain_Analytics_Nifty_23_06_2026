@@ -21,7 +21,7 @@
 
 
 
-Similarly we have put side glossary as : 
+> Similarly we have put side glossary as : 
 
 
 **Put OI (Open Interest) :** The total number of outstanding put contracts. High Put OI typically highlights a strong support level.
