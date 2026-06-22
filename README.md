@@ -5,7 +5,7 @@
 * Open intreset reveals trader positing for long term as well as short term analysis
 * Implied volatility reveals the uncertainity.
 * Put/Call behaviour show resistance as well as support for the underlying assets.
-
+--
 ## Some financial glossory:
 **Strike Price :** The specific price at which the buyer can buy (call option) and sell (put option) the underlying market asset. The market's current price usually sits in the middle, dividing in-the-money (ITM) and out-of-the-money(OTM) strikes. 
 
@@ -18,9 +18,9 @@
 **Call IV - Implied Volatility** - A measure of the expected future volatility of the underlying asset. Higher IV shows higher option permiums. 
 
 **Call LTP (Last Traded Price) :**   Current price of the market premium you need to pay to buy a call option at that strike price.
-
+--
 Similarly we have put side glossary as : 
-
+--
 **Put OI (Open Interest) :** The total number of outstanding put contracts. High Put OI typically highlights a strong support level.
 
 **Put Change OI:** The net change in open interest for that specific put strike during the day.
