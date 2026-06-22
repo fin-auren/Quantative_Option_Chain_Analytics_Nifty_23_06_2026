@@ -13,7 +13,7 @@
 
 **Call Change OI** : The total change in OI during a trading session tells us above of upcoming resistance/support.
 
-**Call Volume** : The total number of call contracts traded duing the current trading session, showing the most actively traded strike price. 
+- **Call Volume** : The total number of call contracts traded duing the current trading session, showing the most actively traded strike price. 
 
 **Call IV - Implied Volatility** - A measure of the expected future volatility of the underlying asset. Higher IV shows higher option permiums. 
 
