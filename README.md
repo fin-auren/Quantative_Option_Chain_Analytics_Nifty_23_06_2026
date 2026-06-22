@@ -6,5 +6,5 @@
 * Implied volatility reveals the uncertainity.
 * Put/Call behaviour show resistance as well as support for the underlying assets.
 
-
-
+## Some financial glossory:
+**Strike Price :** 
