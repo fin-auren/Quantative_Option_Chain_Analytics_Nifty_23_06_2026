@@ -208,4 +208,8 @@ This show where the market participants are concentrated.
 
 ![Net OI plotted with strike](net_oi_heat_map.png)
 
+Intrepretation: 
+* Green - Put Dominance (Support)
+* Red - Call Dominance (Resistance)
+This becomes a visual map of support and resistance.
 
