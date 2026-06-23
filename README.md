@@ -71,5 +71,12 @@ Larger Put Open Intreset : 24000
 
 Put writers are concentrated at 24000, this strike act as a support zone. 
 
+## Expected Trading zone : 
+The expected trading zone is 24000 to 24200; Most common option-chain 
 
+## New position Creation :
+call_change_oi = 24150
+put_change_oi = 24100
+
+The fresh position are being created near the current market consensus zone. Trader are actively adjusting their position near 24100-24150 due to expiry of market is near by. 
 
