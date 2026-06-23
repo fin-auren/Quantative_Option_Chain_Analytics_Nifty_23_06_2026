@@ -164,7 +164,9 @@ The miniumum value of strike is **21200** and max value of **26300** with a **we
 
 **Implied Volatility Analysis**
 ## Volatility Smile
-Objective : **Investigate the volatility structure embedded in NIFTY option prices.
+
+Objective : Investigate the volatility structure embedded in NIFTY option prices.
+
 Volatility Smile are implied volatility patterns that arise in pricing financial options a parameter that needs to be modified for the Black-Scholes formula to fit market prices. 
 ![Chart showing annual growth](IV_analysis.png)
 
