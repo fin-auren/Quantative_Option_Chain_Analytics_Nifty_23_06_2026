@@ -105,5 +105,46 @@ And we found out PCR = 0.8716758967048529 which shows "**Market is slighlty bear
 | > 1.5     | Extremely Bullish  |
 
 
+## Concentration Ratio:
+$$
+\text{Concentration Ratio} = \frac{\text{Top 5 OI}}{\text{{Total Oi}}
+$$
+
+Show us the quantative metric of position where we used following critrion for market analysis
+
+| Ratio  | Meaning                |
+| ------ | ---------------------- |
+| <20%   | Diffuse positioning    |
+| 20–40% | Moderate concentration |
+| >40%   | Strong concentration   |
+| >60%   | Extremely concentrated |
+
+|      |Metric|Top5_OI|Total_OI     |Percentage|FIELD6   |FIELD7   |
+|------|------|-------|-------------|----------|---------|---------|
+|0     |Call  |OI     |concentration|853830.0  |2559036.0|33.365298|
+|1     |Put   |OI     |concentration|745974.0  |2230650.0|33.442001|
+
+The top 5 call and put strikes accounts for about 33\% of the total call open interest indicating that market positioning is highly concentrated around a small number of strikes showing good consensus among traders. 
+
+Top 5 call Strikes : 
+|index|strike|call_oi|
+|-----|------|-------|
+|60   |24200.0|205342.0|
+|58   |24100.0|171128.0|
+|62   |24300.0|162409.0|
+|66   |24500.0|159722.0|
+|59   |24150.0|155229.0|
+
+
+Top 5 put Strikes : 
+|index|strike|put_oi|
+|-----|------|------|
+|56   |24000.0|202239.0|
+|58   |24100.0|166651.0|
+|54   |23900.0|126352.0|
+|52   |23800.0|125569.0|
+|46   |23500.0|125163.0|
+
+One observation we made that most of the top OI is concentrated around 24000 and 24200 
 
 
