@@ -194,4 +194,5 @@ Volatility Smile are implied volatility patterns that arise in pricing financial
 |18 |22100.0                    |57.67             |         |         |      |
 |97 |26050.0                    |56.40             |         |         |      |
 
-
+Both the curve reaches their minimum around 24000-24200 which is where maximum Call and Put OI resides. 
+* Minimum IV \approx 24000-24200
