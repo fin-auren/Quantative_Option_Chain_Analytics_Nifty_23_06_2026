@@ -1,0 +1,9 @@
+Metric,Strike,Value,Interpretation
+call_oi,24200.0,205342.0,Potential Resistance
+put_oi,24000.0,202239.0,Potential Support
+call_change_oi,24150.0,101025.0,Maximum New Call Positions
+put_change_oi,24100.0,116663.0,Maximum New Put Positions
+call_volume,24100.0,7560987.0,Most Active Call Trading
+put_volume,24100.0,8010738.0,Most Active Put Trading
+call_iv,22400.0,94.67,Highest Call Implied Volatility
+put_iv,21250.0,77.91,Highest Put Implied Volatility
