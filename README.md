@@ -158,3 +158,6 @@ One observation we made that most of the top OI is concentrated around 24000 and
 |1    |Weighted Standard Deviation|529.6709527679366 |
 
 The miniumum value of strike is **21200** and max value of **26300** with a **weighted mean strike of 24596**. We find out a **Weighted Standard Deviation to be 529.67**. 
+
+![A descriptive caption of the figure](IVanalysis.png)
+
