@@ -91,7 +91,7 @@ The highest call and put trading volumes are observed at a strike price of 24100
 To gauge the market sentiment Put-Call Ratio (PCR) was computed using total open interset across all strikes which is defined below: 
 
 $$
-PCR = \frac{Total Put OI}{Total Call OI}
+PCR = \frac{\text{Total Put OI}}{\text{Total Call OI}}
 $$
 
 And we found out PCR = 0.8716758967048529 which shows "Market is slighlty bearish." based on following framework : 
