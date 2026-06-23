@@ -61,3 +61,15 @@
 |call_iv       |22400.0|94.67    |Highest Call Implied Volatility|
 |put_iv        |21250.0|77.91    |Highest Put Implied Volatility |
 
+
+# Reserach Findings : 
+## Market position cluster :
+The most option activity is concentrated between 24000-24200 region.
+
+## Support Zone : 
+Larger Put Open Intreset : 24000 
+
+Put writers are concentrated at 24000, this strike act as a support zone. 
+
+
+
