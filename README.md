@@ -80,3 +80,9 @@ put_change_oi = 24100
 
 The fresh position are being created near the current market consensus zone. Trader are actively adjusting their position near 24100-24150 due to expiry of market is near by. 
 
+'''24100''' is the most actively traded strike.
+
+The highest call and put trading volumes are observed at a strike price of 24100 strike, suggesting that this this is the main battleground between bullish and bearish market participants where market is closed near by this price. 
+
+'''Highest Call Implied Volatility''' and '''Highest Put Implied Volatility''' are observed at strikes far from the primary trading region, consistent with the volatilty observed in option markets. 
+
