@@ -158,11 +158,40 @@ One observation we made that most of the top OI is concentrated around 24000 and
 |1    |Weighted Standard Deviation|529.6709527679366 |
 
 The miniumum value of strike is **21200** and max value of **26300** with a **weighted mean strike of 24596**. We find out a **Weighted Standard Deviation to be 529.67**. 
+
+
 \href{https://en.wikipedia.org/wiki/Volatility_smile}
 
 **Volattility Smile in Option Trading:**
-
-
+Volatility Smile are implied volatility patterns that arise in pricing financial options a parameter that needs to be modified for the Black-Scholes formula to fit market prices. 
 ![Chart showing annual growth](IV_analysis.png)
+
+
+|IV |Summary                    |Statistics        |  | ||
+|---|---------------------------|------------------|---------|---------|------|
+|   |Metric                     |Call              |IV       |Put      |IV    |
+|0  |Mean                       |IV                |30.562083|29.782708|      |
+|1  |Median                     |IV                |25.790000|26.640000|      |
+|2  |Std                        |IV                |18.443256|16.108505|      |
+|3  |Min                        |IV                |11.590000|11.290000|      |
+|4  |Max                        |IV                |94.670000|63.760000|      |
+|Maximum|IV                         |Summary           |         |         |      |
+|   |Metric                     |Strike            |IV       |         |      |
+|0  |Maximum                    |Call              |IV       |22400.0  |94.67 |
+|1  |Maximum                    |Put               |IV       |21850.0  |63.76 |
+|Top|5                          |Call              |IV       |Strikes  |      |
+|   |strike                     |call_iv           |         |         |      |
+|24 |22400.0                    |94.67             |         |         |      |
+|26 |22500.0                    |64.58             |         |         |      |
+|33 |22850.0                    |61.52             |         |         |      |
+|16 |22000.0                    |58.40             |         |         |      |
+|28 |22600.0                    |56.62             |         |         |      |
+|Top|5                          |Put               |IV       |Strikes  |      |
+|   |strike                     |put_iv            |         |         |      |
+|13 |21850.0                    |63.76             |         |         |      |
+|16 |22000.0                    |59.69             |         |         |      |
+|17 |22050.0                    |58.33             |         |         |      |
+|18 |22100.0                    |57.67             |         |         |      |
+|97 |26050.0                    |56.40             |         |         |      |
 
 
