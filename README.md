@@ -87,4 +87,23 @@ The highest call and put trading volumes are observed at a strike price of 24100
 **Highest Call Implied Volatility** and **Highest Put Implied Volatility** are observed at strikes far from the primary trading region, consistent with the volatilty observed in option markets. 
 
 
+## Call Put Ratio
+To gauge the market sentiment Put-Call Ratio (PCR) was computed using total open interset across all strikes which is defined below: 
+
+$$
+PCR = \frac{Total Put OI}{Total Call OI}
+$$
+
+And we found out PCR = 0.8716758967048529 which shows "Market is slighlty bearish." based on following framework : 
+
+| PCR       | Interpretation     |
+| --------- | ------------------ |
+| < 0.7     | Bearish            |
+| 0.7 – 1.0 | Slightly Bearish   |
+| 1.0 – 1.3 | Neutral / Balanced |
+| > 1.3     | Bullish            |
+| > 1.5     | Extremely Bullish  |
+
+
+
 
