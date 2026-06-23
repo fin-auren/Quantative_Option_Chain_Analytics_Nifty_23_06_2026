@@ -94,7 +94,7 @@ $$
 PCR = \frac{\text{Total Put OI}}{\text{Total Call OI}}
 $$
 
-And we found out PCR = 0.8716758967048529 which shows "Market is slighlty bearish." based on following framework : 
+And we found out PCR = 0.8716758967048529 which shows "**Market is slighlty bearish.**" based on following framework : 
 
 | PCR       | Interpretation     |
 | --------- | ------------------ |
