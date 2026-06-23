@@ -150,4 +150,13 @@ Top 5 put Strikes :
 
 One observation we made that most of the top OI is concentrated around 24000 and 24200 
 
+**Weighted Variance and Weighted Standard Deviation Results :**
+
+|index|Metric                     |Value             |
+|-----|---------------------------|------------------|
+|0    |Wighted Variance           |280551.31820609374|
+|1    |Weighted Standard Deviation|529.6709527679366 |
+
+
+
 
