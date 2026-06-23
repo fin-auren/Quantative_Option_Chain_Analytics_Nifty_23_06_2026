@@ -41,6 +41,7 @@
 **Expiry Date** - 23 June 2026
 
 <h1> Data Cleaning </h1>
+
 > step 1 - Rename the columns for call and put options.
 > step 2 - Rename duplicated header row for better reading.
 > step 3 - replace '-' with NaN using 'numpy'.
