@@ -120,10 +120,10 @@ Show us the quantative metric of position where we used following critrion for m
 | >40%   | Strong concentration   |
 | >60%   | Extremely concentrated |
 
-|      |Metric|Top5_OI|Total_OI     |Percentage|FIELD6   |FIELD7   |
-|------|------|-------|-------------|----------|---------|---------|
-|0     |Call  |OI     |concentration|853830.0  |2559036.0|33.365298|
-|1     |Put   |OI     |concentration|745974.0  |2230650.0|33.442001|
+|      |Metric|Top5_OI|Total_OI     |Percentage| 
+|------|------|-------|-------------|----------|
+|0     |Call OI concentration|853830.0  |2559036.0|33.365298|
+|1     |Put  OI concentration|745974.0  |2230650.0|33.442001|
 
 The top 5 call and put strikes accounts for about 33\% of the total call open interest indicating that market positioning is highly concentrated around a small number of strikes showing good consensus among traders. 
 
