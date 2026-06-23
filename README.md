@@ -108,7 +108,7 @@ And we found out PCR = 0.8716758967048529 which shows "**Market is slighlty bear
 ## Concentration Ratio:
 
 $$
-\text{Concentration Ratio} = \frac{\text{Top 5 OI}}{\text{{Total Oi}}
+\text{Concentration Ratio} = \frac{\text{Top 5 OI}}{\text{{Total Oi}}}
 $$
 
 Show us the quantative metric of position where we used following critrion for market analysis
