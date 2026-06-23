@@ -162,7 +162,9 @@ The miniumum value of strike is **21200** and max value of **26300** with a **we
 
 \href{https://en.wikipedia.org/wiki/Volatility_smile}
 
-**Volattility Smile in Option Trading:**
+**Implied Volatility Analysis**
+## Volatility Smile
+Objective : **Investigate the volatility structure embedded in NIFTY option prices.
 Volatility Smile are implied volatility patterns that arise in pricing financial options a parameter that needs to be modified for the Black-Scholes formula to fit market prices. 
 ![Chart showing annual growth](IV_analysis.png)
 
@@ -198,4 +200,5 @@ Both the curve reaches their minimum around 24000-24200 which is where maximum C
 * Minimum IV =  24000-24200
 * The lowest implied volatility occurs near the strikes with the highest concentration of OI. This suggest that market that market traders assign the highest prob to the price movements occuing within this region.
 * Far away from 24100 IV increases dramatically. Options far from the primary trading region exhibit substantially higher implied volatility, reflecting greater uncertainty and lower liquidity.
-* The graph is left side skew ; Call IV Max = 94.67; Put IV Max = 63.76; 
+* The graph is left side skew ; Call IV Max = 94.67; Put IV Max = 63.76;
+* The left tail is steeper than the right tail. Market participants assign higer risk premiums to the large downside moves than to comparable upside moves. 
