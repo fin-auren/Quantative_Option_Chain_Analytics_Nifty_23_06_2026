@@ -204,3 +204,9 @@ Both the curve reaches their minimum around 24000-24200 which is where maximum C
 * Far away from 24100 IV increases dramatically. Options far from the primary trading region exhibit substantially higher implied volatility, reflecting greater uncertainty and lower liquidity.
 * The graph is left side skew ; Call IV Max = 94.67; Put IV Max = 63.76;
 * The left tail is steeper than the right tail. Market participants assign higer risk premiums to the large downside moves than to comparable upside moves. 
+
+# Strike Vs Option with color representing Open Interset
+
+This show where the market participants are concentrated. 
+
+![Net OI plotted with strike](net_oi_heat_map.png)
