@@ -167,7 +167,7 @@ Volatility Smile are implied volatility patterns that arise in pricing financial
 ![Chart showing annual growth](IV_analysis.png)
 
 
-|IV |Summary                    |Statistics        |  | ||
+|IV Summary Statistics |         |        |  | ||
 |---|---------------------------|------------------|---------|---------|------|
 |   |Metric                     |Call              |IV       |Put      |IV    |
 |0  |Mean                       |IV                |30.562083|29.782708|      |
@@ -175,18 +175,18 @@ Volatility Smile are implied volatility patterns that arise in pricing financial
 |2  |Std                        |IV                |18.443256|16.108505|      |
 |3  |Min                        |IV                |11.590000|11.290000|      |
 |4  |Max                        |IV                |94.670000|63.760000|      |
-|Maximum|IV                         |Summary           |         |         |      |
+|Maximum IV Summary |                         |           |         |         |      |
 |   |Metric                     |Strike            |IV       |         |      |
 |0  |Maximum                    |Call              |IV       |22400.0  |94.67 |
 |1  |Maximum                    |Put               |IV       |21850.0  |63.76 |
-|Top|5                          |Call              |IV       |Strikes  |      |
+|Top 5 Call IV Strikes|                          |             |       ||      |
 |   |strike                     |call_iv           |         |         |      |
 |24 |22400.0                    |94.67             |         |         |      |
 |26 |22500.0                    |64.58             |         |         |      |
 |33 |22850.0                    |61.52             |         |         |      |
 |16 |22000.0                    |58.40             |         |         |      |
 |28 |22600.0                    |56.62             |         |         |      |
-|Top|5                          |Put               |IV       |Strikes  |      |
+|Top|5  Put IV Strikes                       |               |       |  |      |
 |   |strike                     |put_iv            |         |         |      |
 |13 |21850.0                    |63.76             |         |         |      |
 |16 |22000.0                    |59.69             |         |         |      |
@@ -195,4 +195,7 @@ Volatility Smile are implied volatility patterns that arise in pricing financial
 |97 |26050.0                    |56.40             |         |         |      |
 
 Both the curve reaches their minimum around 24000-24200 which is where maximum Call and Put OI resides. 
-* Minimum IV \approx 24000-24200
+* Minimum IV =  24000-24200
+* The lowest implied volatility occurs near the strikes with the highest concentration of OI. This suggest that market that market traders assign the highest prob to the price movements occuing within this region.
+* Far away from 24100 IV increases dramatically. Options far from the primary trading region exhibit substantially higher implied volatility, reflecting greater uncertainty and lower liquidity.
+* The graph is left side skew ; Call IV Max = 94.67; Put IV Max = 63.76; 
