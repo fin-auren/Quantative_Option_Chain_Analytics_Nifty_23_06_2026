@@ -43,7 +43,7 @@
 <h1> Data Cleaning </h1>
 
 >step 1 - Rename the columns for call and put options.
-> step 2 - Rename duplicated header row for better reading.
-> step 3 - replace '-' with NaN using 'numpy'.
-> step 4 - convert string (10,550) into numeric value using new function.
-> step 5 - Validation of the data.
+>step 2 - Rename duplicated header row for better reading.
+>step 3 - replace '-' with NaN using 'numpy'.
+>step 4 - convert string (10,550) into numeric value using new function.
+>step 5 - Validation of the data.
